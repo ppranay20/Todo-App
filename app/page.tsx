@@ -15,7 +15,6 @@ export default function App(){
       <div className="flex justify-between items-center">
       <h1 className="font-bold text-xl py-5 px-3">Todo List</h1>
       <div className="p-2">
-        <FaMoon size={20} />
       </div>
       </div>
       <div className="flex justify-between items-center px-3">
